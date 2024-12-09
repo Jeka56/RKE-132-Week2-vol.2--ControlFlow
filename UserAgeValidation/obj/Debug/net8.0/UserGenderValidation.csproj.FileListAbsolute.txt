@@ -1,0 +1,14 @@
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfoInputs.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.AssemblyInfo.cs
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.csproj.CoreCompileInputs.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.exe
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.deps.json
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.runtimeconfig.json
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\refint\UserGenderValidation.dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.pdb
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserGenderValidation.genruntimeconfig.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\ref\UserGenderValidation.dll

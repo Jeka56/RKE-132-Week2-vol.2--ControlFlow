@@ -1,0 +1,14 @@
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).AssemblyInfoInputs.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).AssemblyInfo.cs
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).csproj.CoreCompileInputs.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\bin\Debug\net8.0\Week2(vol.2).exe
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\bin\Debug\net8.0\Week2(vol.2).deps.json
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\bin\Debug\net8.0\Week2(vol.2).runtimeconfig.json
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\bin\Debug\net8.0\Week2(vol.2).dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\bin\Debug\net8.0\Week2(vol.2).pdb
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\refint\Week2(vol.2).dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).pdb
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\Week2(vol.2).genruntimeconfig.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\Week2(vol.2)\obj\Debug\net8.0\ref\Week2(vol.2).dll

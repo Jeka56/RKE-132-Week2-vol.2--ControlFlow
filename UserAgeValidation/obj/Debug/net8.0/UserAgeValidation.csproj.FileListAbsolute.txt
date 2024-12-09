@@ -1,0 +1,14 @@
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.exe
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.deps.json
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.runtimeconfig.json
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\bin\Debug\net8.0\UserAgeValidation.pdb
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.AssemblyInfoInputs.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.AssemblyInfo.cs
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.csproj.CoreCompileInputs.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\refint\UserAgeValidation.dll
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.pdb
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\UserAgeValidation.genruntimeconfig.cache
+C:\Users\Jekaterina\source\repos\Week2(vol.2)\UserAgeValidation\obj\Debug\net8.0\ref\UserAgeValidation.dll
